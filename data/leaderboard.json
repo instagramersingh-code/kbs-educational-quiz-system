@@ -1,0 +1,98 @@
+[
+  {
+    "id": "mock-1",
+    "studentName": "Aarav Sharma",
+    "classLevel": 8,
+    "subject": "science",
+    "points": 70000000,
+    "score": 10,
+    "totalQuestions": 10,
+    "accuracy": 100,
+    "timeSpent": 245,
+    "date": "2026-06-18"
+  },
+  {
+    "id": "mock-2",
+    "studentName": "Priya Patel",
+    "classLevel": 6,
+    "subject": "gk",
+    "points": 320000,
+    "score": 7,
+    "totalQuestions": 10,
+    "accuracy": 70,
+    "timeSpent": 180,
+    "date": "2026-06-19"
+  },
+  {
+    "id": "mock-3",
+    "studentName": "Kabir Singh",
+    "classLevel": 10,
+    "subject": "history",
+    "points": 1250000,
+    "score": 8,
+    "totalQuestions": 10,
+    "accuracy": 80,
+    "timeSpent": 210,
+    "date": "2026-06-19"
+  },
+  {
+    "id": "mock-4",
+    "studentName": "Ananya Iyer",
+    "classLevel": 5,
+    "subject": "science",
+    "points": 10000,
+    "score": 4,
+    "totalQuestions": 10,
+    "accuracy": 40,
+    "timeSpent": 95,
+    "date": "2026-06-20"
+  },
+  {
+    "id": "mock-5",
+    "studentName": "Rohan Das",
+    "classLevel": 12,
+    "subject": "history",
+    "points": 70000000,
+    "score": 10,
+    "totalQuestions": 10,
+    "accuracy": 100,
+    "timeSpent": 305,
+    "date": "2026-06-20"
+  },
+  {
+    "id": "mock-6",
+    "studentName": "Siddharth Sen",
+    "classLevel": 4,
+    "subject": "gk",
+    "points": 160000,
+    "score": 6,
+    "totalQuestions": 10,
+    "accuracy": 60,
+    "timeSpent": 130,
+    "date": "2026-06-20"
+  },
+  {
+    "id": "mock-7",
+    "studentName": "Meera Nair",
+    "classLevel": 3,
+    "subject": "science",
+    "points": 50000,
+    "score": 5,
+    "totalQuestions": 10,
+    "accuracy": 50,
+    "timeSpent": 110,
+    "date": "2026-06-17"
+  },
+  {
+    "id": "mock-8",
+    "studentName": "Vihaan Gupta",
+    "classLevel": 7,
+    "subject": "gk",
+    "points": 1250000,
+    "score": 8,
+    "totalQuestions": 10,
+    "accuracy": 80,
+    "timeSpent": 195,
+    "date": "2026-06-18"
+  }
+]

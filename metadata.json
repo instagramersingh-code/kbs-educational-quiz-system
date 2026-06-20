@@ -1,0 +1,6 @@
+{
+  "name": "KBC Educational Quiz System",
+  "description": "An interactive, KBC-style educational quiz system for students from class 1 to 12 featuring GK, science, and history, real-time leaderboards, dynamic AI question generation, and detailed report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

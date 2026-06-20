@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rep-mock-1",
+    "studentName": "Aarav Sharma",
+    "classLevel": 8,
+    "subject": "science",
+    "pointsWon": 70000000,
+    "correctCount": 10,
+    "totalQuestions": 10,
+    "accuracy": 100,
+    "timeSpent": 245,
+    "date": "2026-06-18",
+    "results": [
+      {
+        "question": "What is the chemical symbol for Gold?",
+        "options": [
+          "Ag",
+          "Au",
+          "Fe",
+          "Gd"
+        ],
+        "userAnswer": "Au",
+        "correctAnswer": "Au",
+        "isCorrect": true,
+        "explanation": "Au is derived from the Latin word 'Aurum', which means shining dawn."
+      },
+      {
+        "question": "Which organ rules the nervous system in humans?",
+        "options": [
+          "Heart",
+          "Lungs",
+          "Brain",
+          "Kidney"
+        ],
+        "userAnswer": "Brain",
+        "correctAnswer": "Brain",
+        "isCorrect": true,
+        "explanation": "The brain acts as the central control unit for the nervous system."
+      }
+    ],
+    "aiFeedback": "Masterful performance, Aarav! You demonstrated absolute precision. Keep exploring high-level astrophysics and quantum concepts."
+  }
+]

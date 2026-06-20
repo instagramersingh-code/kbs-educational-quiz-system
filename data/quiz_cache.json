@@ -1,0 +1,136 @@
+{
+  "gk_5_medium_en": [
+    [
+      {
+        "question": "Which is the largest planet in our solar system?",
+        "options": [
+          "Earth",
+          "Jupiter",
+          "Saturn",
+          "Mars"
+        ],
+        "correctAnswer": "Jupiter",
+        "explanation": "Jupiter is the largest planet in our solar system, and it is so big that more than 1,300 Earths could fit inside it.",
+        "difficulty": "easy",
+        "level": 1
+      },
+      {
+        "question": "Which organ in the human body pumps blood to all other parts?",
+        "options": [
+          "Brain",
+          "Lungs",
+          "Heart",
+          "Stomach"
+        ],
+        "correctAnswer": "Heart",
+        "explanation": "The heart is a strong muscular organ that continuously pumps oxygen-rich blood and nutrients throughout our body.",
+        "difficulty": "easy",
+        "level": 2
+      },
+      {
+        "question": "Which is the tallest animal on Earth?",
+        "options": [
+          "Elephant",
+          "Giraffe",
+          "Ostrich",
+          "Blue Whale"
+        ],
+        "correctAnswer": "Giraffe",
+        "explanation": "Giraffes are the tallest land mammals, using their extremely long necks to reach leaves high up in acacia trees.",
+        "difficulty": "easy",
+        "level": 3
+      },
+      {
+        "question": "What is the process by which green plants make their own food using sunlight?",
+        "options": [
+          "Respiration",
+          "Digestion",
+          "Photosynthesis",
+          "Evaporation"
+        ],
+        "correctAnswer": "Photosynthesis",
+        "explanation": "Photosynthesis is the process where green plants use sunlight, water, and carbon dioxide to create food and release oxygen into the air.",
+        "difficulty": "medium",
+        "level": 4
+      },
+      {
+        "question": "Which of these is the coldest continent on Earth?",
+        "options": [
+          "Asia",
+          "Europe",
+          "Australia",
+          "Antarctica"
+        ],
+        "correctAnswer": "Antarctica",
+        "explanation": "Antarctica is the southernmost continent on Earth and is classified as a cold desert because it gets very little rain or snow.",
+        "difficulty": "medium",
+        "level": 5
+      },
+      {
+        "question": "Who is popularly known as the 'Father of the Indian Constitution'?",
+        "options": [
+          "Mahatma Gandhi",
+          "Dr. B.R. Ambedkar",
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose"
+        ],
+        "correctAnswer": "Dr. B.R. Ambedkar",
+        "explanation": "Dr. Bhimrao Ramji Ambedkar served as the chairman of the drafting committee and played a key role in writing India's Constitution.",
+        "difficulty": "medium",
+        "level": 6
+      },
+      {
+        "question": "Which gas is the most abundant in Earth's atmosphere?",
+        "options": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "correctAnswer": "Nitrogen",
+        "explanation": "Nitrogen is the most common gas in our atmosphere, making up about 78% of the air we breathe, while oxygen is about 21%.",
+        "difficulty": "medium",
+        "level": 7
+      },
+      {
+        "question": "Which of the following is a classical dance form that originated in the state of Kerala?",
+        "options": [
+          "Kathakali",
+          "Bharatanatyam",
+          "Kathak",
+          "Odissi"
+        ],
+        "correctAnswer": "Kathakali",
+        "explanation": "Kathakali is a traditional dance-drama from Kerala known for its elaborate colorful makeup, unique costumes, and detailed hand gestures.",
+        "difficulty": "hard",
+        "level": 8
+      },
+      {
+        "question": "What is the approximate time taken by sunlight to travel from the Sun to the Earth?",
+        "options": [
+          "8 seconds",
+          "8 minutes",
+          "8 hours",
+          "8 days"
+        ],
+        "correctAnswer": "8 minutes",
+        "explanation": "Light travels incredibly fast, but because the Sun is so far away, it still takes about 8 minutes and 20 seconds for sunlight to reach Earth.",
+        "difficulty": "hard",
+        "level": 9
+      },
+      {
+        "question": "Which of the following mountain ranges forms a natural boundary separating Europe from Asia?",
+        "options": [
+          "The Andes",
+          "The Himalayas",
+          "The Urals",
+          "The Alps"
+        ],
+        "correctAnswer": "The Urals",
+        "explanation": "The Ural Mountains run from north to south through western Russia and are widely accepted as the natural boundary between the continents of Europe and Asia.",
+        "difficulty": "expert",
+        "level": 10
+      }
+    ]
+  ]
+}
